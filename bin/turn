@@ -7,7 +7,13 @@ puts "Welcome to Tic Tac Toe!"
 move(board, 4, "X")
 move(board, 0, "O")
 move(board, 1, "X")
+<<<<<<< HEAD
 
 display_board(board)
 
+=======
+ 
+display_board(board)
+ 
+>>>>>>> a89990fd9aad60ef5505091c766446971b6379dd
 turn(board)
